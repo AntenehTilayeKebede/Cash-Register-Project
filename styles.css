@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.input-container {
+  margin-bottom: 10px;
+}
+
+.input-container input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#change-due {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+#purchase-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#purchase-btn:hover {
+  background-color: #45a049;
+}
